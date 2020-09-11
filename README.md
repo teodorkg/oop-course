@@ -1,2 +1,2 @@
 # oop-course
-Repo for my OOP course at FMI
+Repo for the OOP course at FMI
